@@ -55,20 +55,6 @@ https://acgnhub.top
 
 ---
 
-📂 项目结构
-
-acgnhub
-├── index.html
-├── assets
-│   ├── css
-│   ├── js
-│   └── images
-├── css
-├── js
-└── README.md
-
----
-
 🚀 部署方式
 
 由于项目为静态网站，可以部署在多种平台，例如：
